@@ -1,2 +1,4 @@
-package com.juaracoding;public class RegisterTest {
+package com.juaracoding;
+
+public class RegisterTest {
 }
